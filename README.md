@@ -3,4 +3,4 @@
 
 ## Screenshots
 
-![App Screenshot](https://github.com/hadismohammadi/okay-fashion/images/screenshot.png?raw=true)
+![App Screenshot](https://github.com/hadismohammadi/okay-fashion/blob/main/images/screenshot.png?raw=true)
